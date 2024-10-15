@@ -1,0 +1,2 @@
+1. Instalação das Bibliotecas. 
+Nesta etapa se encontram todas as bibliotecas instaladas no ambiente virtual para execução do projeto. 
