@@ -1,4 +1,4 @@
-# Projeto TCC – (Título Completo do Trabalho)
+# Projeto TCC – Avaliação de metodologias de machine learning para determinação de diagnóstico de câncer
 
 > TODO: Substituir por um subtítulo claro que resuma o objetivo principal (ex: “Modelo de Detecção de X usando Redes Neurais e Pré-processamento Y”).
 
